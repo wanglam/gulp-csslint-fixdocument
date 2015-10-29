@@ -7,7 +7,7 @@
     "index.js"
   ],
   "dependencies": {
-    "csslint": "^0.10.0",
+    "csslint": "git+ssh://git@github.com/wanglam/csslint-latest-pub.git",
     "gulp-util": "^3.0.4",
     "rcloader": "^0.1.4",
     "through2": "^2.0.0"
